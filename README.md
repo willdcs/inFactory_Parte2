@@ -1,0 +1,3 @@
+# inFactory_Parte2
+Repositório que contém o trabalho de IHC
+vamos ver se rola usar esse github...
